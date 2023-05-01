@@ -1,3 +1,3 @@
 # Tetris
 Simple Tetris on Windows Console with cpp.
-![tetris](/images/tetris.png "Tetris")
+![tetris](Tetris/images/tetris.png "Tetris")
