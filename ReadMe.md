@@ -7,4 +7,8 @@ Simple Tetris on Windows Console with cpp.
 |$\downarrow$|Move down|  
 |Z|Rotate clockwise|  
 |X|Rotate counterclockwise|  
+
 ![tetris](Tetris/images/tetris.png "Tetris")
+
+# TetrisV1
+Same as Tetris.

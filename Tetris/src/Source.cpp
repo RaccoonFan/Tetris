@@ -144,7 +144,7 @@ int main()
 
 		if (bKey[4])
 		{
-			nCurrentRotation -= (bRotateHoldX && DoesPieceFit(nCurrentPiece, nCurrentRotation + 1, nCurrentX, nCurrentY)) ? 1 : 0;
+			nCurrentRotation -= (bRotateHoldX && DoesPieceFit(nCurrentPiece, nCurrentRotation - 1, nCurrentX, nCurrentY)) ? 1 : 0;
 			bRotateHoldX = false;
 		}
 		else
